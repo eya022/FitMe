@@ -1,1 +1,1 @@
-# Fitness Workout Tracker, Meal Planner, Sleep Tracker
+# FitMe is Fitness Workout Tracker, Meal Planner, Sleep Tracker
